@@ -1,0 +1,15 @@
+p{font-family:cursive;}
+h1,h2,h3,h4,h5,h6{font-family:cambria;}
+
+#bgg{background-image:url('images/angelo-pantazis-zcbfehMCw9w-unsplash.jpg');
+background-repeat:no-repeat;
+background-size:cover; background-attachment: fixed;
+}
+
+#bgg:hover{background-image:url('images/alin-surdu-j5GCqQM3eYA-unsplash.jpg');
+    background-repeat:no-repeat;
+    background-position-y:top;
+    background-size:cover; background-attachment: fixed;
+    transition:all 2s ease-in-out;
+    }
+#nimg:hover{transform: rotate(-10deg) scale(1.2); transition:all 1s ease;}
